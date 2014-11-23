@@ -4,7 +4,7 @@ author: "Sizhan Shi"
 date: "November 22, 2014"
 output: 
     html_document:
-        theme: journal
+        theme: cosmo
         highlight: kate
 ---
 ## Context  
