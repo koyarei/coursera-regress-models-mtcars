@@ -2,7 +2,10 @@
 title: "Regression Models Course Project - mtcars"
 author: "Sizhan Shi"
 date: "November 22, 2014"
-output: html_document
+output: 
+    html_document:
+        theme: journal
+        highlight: kate
 ---
 ## Context  
 
